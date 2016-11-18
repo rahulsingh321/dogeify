@@ -1,3 +1,3 @@
-module Dogeify
-  VERSION = "0.1.0"
+class Dogeify
+  VERSION = "1.0.0"
 end
